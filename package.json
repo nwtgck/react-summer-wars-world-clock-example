@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server",
-    "build": "webpack"
+    "build": "webpack",
+    "deploy": "npm run build && gh-pages -m '[AUTO] Update document' -d dist"
   },
   "keywords": [],
   "author": "Ryo Ota",
@@ -18,6 +19,7 @@
     "babel-loader": "^7.1.4",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
+    "gh-pages": "^1.1.0",
     "html-webpack-plugin": "^3.2.0",
     "ts-loader": "^4.3.0",
     "typescript": "^2.8.3",

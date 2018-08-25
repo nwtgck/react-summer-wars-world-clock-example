@@ -1,5 +1,7 @@
 # react-summer-wars-world-clock-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nwtgck/react-summer-wars-world-clock-example.svg)](https://greenkeeper.io/)
+
 Example of [react-summer-wars-world-clock](https://github.com/nwtgck/react-summer-wars-world-clock)
 
 ## Demo page

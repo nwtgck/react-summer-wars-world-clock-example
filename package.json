@@ -13,7 +13,7 @@
   "author": "Ryo Ota",
   "license": "ISC",
   "devDependencies": {
-    "@types/react": "^16.3.14",
+    "@types/react": "^16.8.14",
     "@types/react-dom": "^16.0.11",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
